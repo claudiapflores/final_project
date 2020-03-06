@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyra Gmoser-Daskalakis | Academic</title>
+    <link>/authors/kyra-gmoser-daskalakis/</link>
+      <atom:link href="/authors/kyra-gmoser-daskalakis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kyra Gmoser-Daskalakis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Kyra Gmoser-Daskalakis</title>
+      <link>/authors/kyra-gmoser-daskalakis/</link>
+    </image>
+    
+    <item>
+      <title>Recommendations for Implementation of a Statewide Low-Income Water Rate Assistance Program</title>
+      <link>/publication/preprint/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
